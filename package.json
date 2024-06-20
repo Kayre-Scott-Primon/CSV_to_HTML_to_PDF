@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "html-pdf": "^3.0.1",
+    "puppeteer": "^22.11.2"
+  }
+}
